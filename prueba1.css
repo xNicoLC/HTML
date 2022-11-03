@@ -1,5 +1,5 @@
 
-ul li{ color: red; } /* NO RECOMENDADO YA QUE SE EDITA TODOS LOS "ul li" del archivo */
+ul li{ color: rgb(207, 196, 196); } /* NO RECOMENDADO YA QUE SE EDITA TODOS LOS "ul li" del archivo */
 ol li{ color: blue; }/* NO RECOMENDADO YA QUE SE EDITA TODOS LOS "Ol li" del archivo */
 
 .rojo{ color: rgb(45, 214, 73); } /* usar este ya que solo se edita segun el name que se le asigno*/
