@@ -1,0 +1,6 @@
+
+ul li{ color: red; } /* NO RECOMENDADO YA QUE SE EDITA TODOS LOS "ul li" del archivo */
+ol li{ color: blue; }/* NO RECOMENDADO YA QUE SE EDITA TODOS LOS "Ol li" del archivo */
+
+.rojo{ color: rgb(45, 214, 73); } /* usar este ya que solo se edita segun el name que se le asigno*/
+.azul{ color: rgb(199, 20, 124); }/* usar este ya que solo se edita segun el name que se le asigno*/
